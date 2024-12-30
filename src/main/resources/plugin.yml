@@ -1,0 +1,11 @@
+name: AdvancementAnnouncer
+version: '${project.version}'
+main: io.github.altkat.advancementannouncer.AdvancementAnnouncer
+api-version: 1.16
+authors: [StreetMelodeez(AltKat)]
+softdepend: ["PlaceholderAPI"]
+commands:
+  advancementannouncer:
+    usage: /advancementannouncer <style> <icon> <target> <message>
+    aliases:
+      - aa
