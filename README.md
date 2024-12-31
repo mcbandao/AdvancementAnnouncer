@@ -1,6 +1,11 @@
 <div align="center">
-  <img src="https://altkat.github.io/AdvancementAnnouncer/title.png" alt="Title Image">
-  <br>
+  <h1><img src="https://altkat.github.io/AdvancementAnnouncer/title.png" alt="Title Image"></h1>
+  
+</div>
+
+<div align="center"><b>Important!</b></div><br>
+<div align="center">This plugin uses Java 17, if you are using another java version you may need to add this line to your batch file:<br>
+"<b>-DPaper.IgnoreJavaVersion=true ^</b>"​<br><br>
 </div>
 
 ---
@@ -30,6 +35,7 @@
 ### Images from Advancement Announcer
 
 <div align="center">
+  <br>
   <img src="https://altkat.github.io/AdvancementAnnouncer/a.png" alt="toast-example1"><br><br>
   <img src="https://altkat.github.io/AdvancementAnnouncer/b.png" alt="toast-example2"><br><br>
   <img src="https://altkat.github.io/AdvancementAnnouncer/c.png" alt="toast-example3"><br><br>
