@@ -12,8 +12,8 @@
 
 ### Advancement Announcer Features
 - **Advancement Announcer** gives you the ability to send toast advancement messages to desired players.
-- You can set up presets to easily send them with a simple command.
-- Set automated messages to send on a specified interval to your players.
+- You can set up **presets** to easily send them with a simple command.
+- Set **automated messages** to send on a specified interval to your players.
 - **AA** supports **PlaceholderAPI (PAPI)**, allowing you to use any placeholders supported by PAPI.
 - Tested on Minecraft versions **1.16.5 - 1.21.4**.
 - Feel free to contact me via <a href="https://discordapp.com/users/247441109888925697" target="_blank">Discord</a> for questions, issues, or suggestions.
