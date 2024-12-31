@@ -54,10 +54,10 @@ public class AdvancementAnnouncer extends JavaPlugin {
     }
 
     public void loadConfig() {
-        if (!getConfig().isSet("presets")) { // Check if the config is already set
-            saveDefaultConfig(); // Save the default config only if it doesn't exist
+        if (!getConfig().isSet("presets")) {
+            saveDefaultConfig();
         }
-        reloadConfig(); // Reload the config
+        reloadConfig();
     }
 
     public boolean isPAPIEnabled() {
