@@ -81,6 +81,7 @@ auto-announce:
       message: "&6You can get ranks|&6on our store &b/store"
       style: "CHALLENGE"
       icon: "GOLD_INGOT"
+
 ```
 
 Need help? Feel free to contact me via <a href="https://discordapp.com/users/247441109888925697" target="_blank">Discord</a>
