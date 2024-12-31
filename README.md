@@ -40,6 +40,7 @@
   <img src="https://altkat.github.io/AdvancementAnnouncer/b.png" alt="toast-example2"><br><br>
   <img src="https://altkat.github.io/AdvancementAnnouncer/c.png" alt="toast-example3"><br><br>
   <a>Due to file limits, GIFs are low quality and sped up 2x</a><br>
+  <img src="https://altkat.github.io/AdvancementAnnouncer/autoannouncegif.gif" alt="command-gif0"><br>
   <img src="https://altkat.github.io/AdvancementAnnouncer/fourthcommand.gif" alt="command-gif1"><br>
   <img src="https://altkat.github.io/AdvancementAnnouncer/firstcommand.gif" alt="command-gif2"><br>
   <img src="https://altkat.github.io/AdvancementAnnouncer/secondcommand.gif" alt="command-gif3"><br>
