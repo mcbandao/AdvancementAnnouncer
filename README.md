@@ -11,14 +11,14 @@
 - Set automated messages to send on a specified interval to your players.
 - **AA** supports **PlaceholderAPI (PAPI)**, allowing you to use any placeholders supported by PAPI.
 - Tested on Minecraft versions **1.16.5 - 1.21.4**.
-- Feel free to contact me via [Discord](https://discordapp.com/users/247441109888925697) for questions, issues, or suggestions.
+- Feel free to contact me via <a href="https://discordapp.com/users/247441109888925697" target="_blank">Discord</a> for questions, issues, or suggestions.
 
 ---
 
 ### Commands
 - `/aa <style> <icon> <player's name/all> <preset/message>`
   - Possible options for **style**: `GOAL`, `TASK`, `CHALLENGE`.
-  - Possible options for **icon** can be found [here](https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html).
+  - Possible options for **icon** can be found <a href="https://discordapp.com/users/247441109888925697" target="_blank">here</a>.
   - Target either a specific player's name or use `all`.
   - Write your own message in the command or use one of the presets defined in the config.
 
@@ -83,4 +83,4 @@ auto-announce:
       icon: "GOLD_INGOT"
 ```
 
-Need help? Feel free to contact me via [Discord](https://discordapp.com/users/247441109888925697)
+Need help? Feel free to contact me via <a href="https://discordapp.com/users/247441109888925697" target="_blank">Discord</a>
