@@ -9,7 +9,7 @@
 </div>
 
 ---
-
+自定义进度公告。
 ### Advancement Announcer Features
 - **Advancement Announcer** gives you the ability to send toast advancement messages to desired players.
 - You can set up **presets** to easily send them with a simple command.
