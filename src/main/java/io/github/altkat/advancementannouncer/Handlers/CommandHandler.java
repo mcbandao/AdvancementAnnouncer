@@ -83,7 +83,7 @@ public class CommandHandler implements CommandExecutor, TabCompleter {
             for(Player player : sender.getServer().getOnlinePlayers()){
                 AdvancementHandler.displayTo(player, materialName, message, style);
             }
-            sender.sendMessage(ChatColor.translateAlternateColorCodes('&', "&3[AdvancementAnnouncer] &aAdvancement message sent to all players"));
+            //sender.sendMessage(ChatColor.translateAlternateColorCodes('&', "&3[AdvancementAnnouncer] &aAdvancement message sent to all players"));
         }else{
             Player player = sender.getServer().getPlayer(audience);
             if(player == null){
@@ -91,7 +91,7 @@ public class CommandHandler implements CommandExecutor, TabCompleter {
                 return true;
             }
             AdvancementHandler.displayTo(player, materialName, message, style);
-            sender.sendMessage(ChatColor.translateAlternateColorCodes('&', "&3[AdvancementAnnouncer] &aAdvancement message sent to " + player.getName()));
+            //sender.sendMessage(ChatColor.translateAlternateColorCodes('&', "&3[AdvancementAnnouncer] &aAdvancement message sent to " + player.getName()));
         }
         return true;
     }
